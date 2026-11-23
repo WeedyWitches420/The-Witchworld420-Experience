@@ -1,11 +1,11 @@
-WEEDY WITCHES 420 – V15 Themenbereiche Hexenallerlei
+WEEDY WITCHES 420 – V16: Kristallhöhle & Bibliothek der Runen
 
-Basis: V14. Der Hexenwald, die zwei Hexen, der Wurzeltempel mit vier Portalen, Smokers Corner, Growers Room und Klamottenkiste bleiben erhalten.
+Weiterentwicklung der vorhandenen V15.
 
-NEU: Vier anklickbare Themen-Nischen in Hexenallerlei: Kräuterküche, Hexenlabor, Kristallhöhle und Bibliothek der Runen. Jede hat eine eigene atmosphärische Regalgestaltung und eine Infotafel.
+NEU: Animierter kleiner Wasserfall mit Steinbecken, Kristallspitzen und Lichtreflexen in der Kristallhöhle; schwebende Runenschriftrollen, Lesepult und Kerzen in der Bibliothek. Beide Nischen bleiben Teil von Hexenallerlei und lassen sich weiterhin anklicken.
 
-Die vier realen Hexenküchenartikel bleiben mit der Jimdo-Kategorieseite verlinkt. Der geheime Rezeptkessel mit drei Vorschauen bleibt erhalten. Die übrigen Artikel und der Warenkorb sind weiterhin Demo. Es gibt keinen Rezeptverkauf oder Bezahlvorgang in der virtuellen Welt.
+ERHALTEN: Hexenwald, Hexenlichtung, Wurzeltempel, vier Hauptverkaufsräume, vier echte Hexenküchen-Artikel mit Jimdo-Kategorielink, Rezeptkessel mit Vorschauen und Demo-Warenkorb.
 
-Steuerung: WASD bewegen, Pfeiltasten drehen, Maus ziehen umsehen, E interagieren, Objekte anklicken.
+HINWEIS: Kristallhöhle und Bibliothek haben noch keine echten Shopprodukte. Rezeptideen sind noch nicht käuflich.
 
-GitHub Pages: index.html und README.txt direkt ins Hauptverzeichnis hochladen.
+VERÖFFENTLICHUNG: index.html und README.txt im GitHub-Repository-Hauptverzeichnis ersetzen. GitHub Pages aktualisiert automatisch; Jimdo-Link bleibt gleich.
