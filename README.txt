@@ -1,11 +1,12 @@
-WEEDY WITCHES 420 – V16: Kristallhöhle & Bibliothek der Runen
+WEEDY WITCHES 420 – V17: Das Rätsel des grünen Geistes
 
-Weiterentwicklung der vorhandenen V15.
+Basis: V16. Alle bisherigen begehbaren Räume, Hexenküchenprodukte, der Rezeptkessel und die Dekoration bleiben erhalten.
 
-NEU: Animierter kleiner Wasserfall mit Steinbecken, Kristallspitzen und Lichtreflexen in der Kristallhöhle; schwebende Runenschriftrollen, Lesepult und Kerzen in der Bibliothek. Beide Nischen bleiben Teil von Hexenallerlei und lassen sich weiterhin anklicken.
+NEU: In Hexenallerlei bei der Bibliothek der Runen das leuchtende Buch auf dem Lesepult anklicken oder in seiner Nähe E drücken. Alternativ die Bibliotheksnische öffnen und den Rätsel-Button wählen.
 
-ERHALTEN: Hexenwald, Hexenlichtung, Wurzeltempel, vier Hauptverkaufsräume, vier echte Hexenküchen-Artikel mit Jimdo-Kategorielink, Rezeptkessel mit Vorschauen und Demo-Warenkorb.
+Rätsel Nr. 1 verwendet den Wortlaut der Shopbetreiberin. Antworten Hanf oder Cannabis (auch Hanfpflanze, Nutzhanf, Cannabis sativa) öffnen ein Geheimfach mit einer kostenlosen Rezeptkarte für Waldhexen-Kräutersalz. Die Rezeptkarte kann als TXT-Datei heruntergeladen werden. Dazu erscheint eine kurze Wissenskarte über Hanf.
 
-HINWEIS: Kristallhöhle und Bibliothek haben noch keine echten Shopprodukte. Rezeptideen sind noch nicht käuflich.
+Steuerung: WASD laufen, Pfeiltasten drehen, E interagieren, Maus ziehen umsehen.
+Die bereits vorhandenen Demo-Produkte bleiben Demo. Echte Hexenküchen-Artikel verlinken zur Jimdo-Kategorieseite. Kein zusätzlicher Verkauf oder Checkout für die Rätselbelohnung.
 
-VERÖFFENTLICHUNG: index.html und README.txt im GitHub-Repository-Hauptverzeichnis ersetzen. GitHub Pages aktualisiert automatisch; Jimdo-Link bleibt gleich.
+GitHub Pages: index.html und README.txt in den Root des bestehenden Repositories hochladen; keine Änderung des Jimdo-Eingangs erforderlich.
