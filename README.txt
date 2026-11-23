@@ -1,8 +1,11 @@
-WEEDY WITCHES 420 – V14 Geheimnisvoller Rezeptkessel
+WEEDY WITCHES 420 – V15 Themenbereiche Hexenallerlei
 
-Basis: V13. Alle bestehenden begehbaren Räume und vier echten Hexenküchen-Produkte bleiben erhalten.
-NEU: In Hexenallerlei steht ein anklickbarer Rezeptkessel. Alternativ mit E in seiner Nähe interagieren.
-Der Kessel zeigt drei Rezept-VORSCHAUEN: Waldhexen-Kräutertee, Mondschein-Kekse, Goldener Kräutersirup.
-Noch keine echten Rezeptprodukte, Preise, Bezahlfunktionen oder Rezept-Downloads. Diese müssen zuerst in Jimdo angelegt werden.
-Die vier vorhandenen Hexenküchenartikel verlinken weiterhin auf die Jimdo-Kategorieseite.
-Upload: index.html und README.txt im GitHub-Repository-Hauptverzeichnis ersetzen; GitHub Pages aktualisiert sich automatisch.
+Basis: V14. Der Hexenwald, die zwei Hexen, der Wurzeltempel mit vier Portalen, Smokers Corner, Growers Room und Klamottenkiste bleiben erhalten.
+
+NEU: Vier anklickbare Themen-Nischen in Hexenallerlei: Kräuterküche, Hexenlabor, Kristallhöhle und Bibliothek der Runen. Jede hat eine eigene atmosphärische Regalgestaltung und eine Infotafel.
+
+Die vier realen Hexenküchenartikel bleiben mit der Jimdo-Kategorieseite verlinkt. Der geheime Rezeptkessel mit drei Vorschauen bleibt erhalten. Die übrigen Artikel und der Warenkorb sind weiterhin Demo. Es gibt keinen Rezeptverkauf oder Bezahlvorgang in der virtuellen Welt.
+
+Steuerung: WASD bewegen, Pfeiltasten drehen, Maus ziehen umsehen, E interagieren, Objekte anklicken.
+
+GitHub Pages: index.html und README.txt direkt ins Hauptverzeichnis hochladen.
