@@ -1,1 +1,3 @@
-V20 – Eigenständiges begehbares Hexenlabor. Regale, Kessel und Journal per Klick oder E öffnen. Zurück über Zum Hexenallerlei. Alle drei Dateien ins GitHub-Hauptverzeichnis laden.
+V21 – Vier magische Portale
+Alle drei Dateien im GitHub-Hauptverzeichnis ersetzen.
+Hexenallerlei: Portal anklicken; Rückweg über Schaltfläche.
