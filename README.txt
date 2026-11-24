@@ -1,1 +1,1 @@
-V22 – Hexenhaus. Dateien im Hauptverzeichnis hochladen. WASD, E oder Klick. Sichtbare Versionsnummer V22. Erster räumlicher Entwurf.
+V22.1 – Türzugang: E und kontextbezogene Schaltfläche.
