@@ -1,1 +1,1 @@
-V22.1 – Türzugang: E und kontextbezogene Schaltfläche.
+V23 – Geheimnisvolle Hexengänge. Dekoration erweitert; Türpositionen und Zugangslogik unverändert.
