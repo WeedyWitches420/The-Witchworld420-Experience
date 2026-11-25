@@ -1,1 +1,1 @@
-V23 – Geheimnisvolle Hexengänge. Dekoration erweitert; Türpositionen und Zugangslogik unverändert.
+Weedy Witches 420 - V24. Alle drei Dateien in das GitHub-Repository hochladen. V23 als Sicherung behalten.
